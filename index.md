@@ -1,5 +1,5 @@
 ![This is an image](https://www.kindpng.com/picc/m/165-1659561_hello-png-transparent-background-hello-clipart-png-download.png)</br>
-`print("Hello World)`
+`print("Hello World")`
 ## My name is Justin Lee
 I'm a **third year** at **UCSD**. </br>
 Other things about me is that I was born in ***South Korea***, but I moved to the United States when I was 1.  </br>
