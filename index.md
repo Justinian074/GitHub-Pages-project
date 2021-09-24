@@ -20,6 +20,10 @@ Other than the few `git` commands that I know. Other languages that I learned ar
 - React
 - Javascript
 - HTML/css
+
+If I were to rank the languages, it would be:
+1. Python
+2. Everything Else
   
 ![Good Bye](https://www.pinclipart.com/picdir/middle/548-5487878_goodbye-png-image-free-download-hand-wave-emoji.png) </br>
 [Go back to the top of the file](#my-name-is-justin-lee)
